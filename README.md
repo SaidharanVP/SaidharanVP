@@ -1,97 +1,99 @@
-\#
+# 🤖 `boot --profile SAIDHARAN_V_P`
 
-::: {align="center"}
-SAIDHARAN V P
-:::
-
-::: {align="center"}
-### AI • Machine Learning • Cybersecurity • Full Stack Development
-
-[![Typing
-SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning;Cybersecurity+Enthusiast;Full+Stack+Developer;Building+Intelligent+Applications)](https://git.io/typing-svg)
-
-![](https://komarev.com/ghpvc/?username=SaiDharanVP&style=for-the-badge)
-:::
-
-------------------------------------------------------------------------
-
-# 👨‍💻 About Me
-
-``` python
-class SaidharanVP:
-    name = "SAIDHARAN V P"
-    college = "Chennai Institute of Technology"
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Cybersecurity",
-        "Full Stack Development",
-        "Generative AI",
-        "Large Language Models"
-    ]
+``` text
+┌──────────────────────────────────────────────────────────────┐
+│ SYSTEM           : SAIDHARAN V P                            │
+│ STATUS           : ONLINE                                   │
+│ ROLE             : AI • ML • Cybersecurity • Full Stack     │
+│ LOCATION         : Chennai, India                           │
+│ MISSION          : Build secure intelligent systems         │
+└──────────────────────────────────────────────────────────────┘
 ```
-
-## 🚀 Tech Stack
 
 ```{=html}
 <p align="center">
 ```
-`<img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,fastapi,flask,html,css,mysql,sqlite,git,github,docker,linux,vscode,tensorflow,pytorch,sklearn&perline=10"/>`{=html}
+[![Typing
+SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=INITIALIZING+AI+PROFILE...;SAIDHARAN+V+P;Artificial+Intelligence;Cybersecurity;Full+Stack+Developer)](https://git.io/typing-svg)
+
 ```{=html}
 </p>
 ```
 
 ------------------------------------------------------------------------
 
-# 🌟 Featured Projects
+# ⚡ SYSTEM MODULES
 
-## 🔐 SecureNet (Aegis)
-
-AI-powered centralized context-aware firewall built with Python,
-FastAPI, React, PyDivert and SQLite.
-
-## 🤖 LLM Document Retrieval System
-
-Semantic search engine for unstructured documents using Large Language
-Models.
-
-## 📊 Bankruptcy Prediction using LSTM
-
-Deep learning model with explainable AI using SHAP and LIME.
+  Module                       Status
+  ---------------------------- ----------------
+  🤖 Artificial Intelligence   ✅ Active
+  🧠 Machine Learning          ✅ Active
+  🔐 Cybersecurity             ✅ Active
+  🌐 Full Stack Development    ✅ Active
+  ☁️ Cloud Learning            🚀 In Progress
 
 ------------------------------------------------------------------------
 
-# 📊 GitHub Stats
+# 🚀 FLAGSHIP PROJECTS
 
-![](https://github-readme-stats.vercel.app/api?username=SaiDharanVP&show_icons=true&theme=tokyonight)
+### 🔐 SecureNet (Aegis)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SaiDharanVP&theme=tokyonight)
+AI-powered centralized context-aware firewall using Python, FastAPI,
+React, PyDivert and SQLite.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiDharanVP&layout=compact&theme=tokyonight)
+### 🤖 LLM Document Retrieval
 
-------------------------------------------------------------------------
+Semantic search engine for unstructured documents powered by LLMs.
 
-# 🏆 GitHub Trophies
+### 📈 Bankruptcy Prediction
 
-![](https://github-profile-trophy.vercel.app/?username=SaiDharanVP&theme=tokyonight&no-frame=true)
-
-------------------------------------------------------------------------
-
-# 📈 Activity Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=SaiDharanVP&theme=tokyo-night)
+LSTM-based prediction model with SHAP and LIME explainability.
 
 ------------------------------------------------------------------------
 
-# 🌐 Connect With Me
+# 🛠 TECHNOLOGY MATRIX
+
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=python,java,c,js,react,nodejs,fastapi,flask,html,css,mysql,sqlite,tensorflow,sklearn,git,github,docker,linux,vscode&perline=7"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 📊 LIVE METRICS
+
+![](https://github-readme-stats.vercel.app/api?username=SaiDharanVP&show_icons=true&theme=transparent)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaiDharanVP&theme=transparent)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=SaiDharanVP&theme=github-dark)
+
+------------------------------------------------------------------------
+
+# 🏆 ACHIEVEMENTS
+
+-   🎓 Computer Science Engineering Student
+-   🤖 AI & Machine Learning Enthusiast
+-   🔐 Cybersecurity Project Developer
+-   💻 Full Stack Developer
+-   🚀 Open to internships and collaborations
+
+------------------------------------------------------------------------
+
+# 🌐 CONNECT
 
 -   GitHub: https://github.com/SaiDharanVP
--   LinkedIn: Add your LinkedIn profile
--   Email: Add your email
+-   LinkedIn: Add your LinkedIn URL
+-   Email: Add your Email
 
 ------------------------------------------------------------------------
 
-> "Passionate about building intelligent, scalable and secure software
-> solutions."
+``` bash
+$ exit
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting.
+See you in the next commit.
+```
